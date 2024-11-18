@@ -1,8 +1,5 @@
 # culinary-critics
 
-You're absolutely right—let's ensure we explain what the ReviewCard is in plain terms so that anyone can understand. Here's an improved revision:
-
-Culinary Critics
 Full-stack project utilizing React, Vite, Bootstrap, Node.js, MongoDB, AWS, and Trello.
 
 Directed project management by mastering Trello to organize tasks, track progress, and enhance team collaboration.
